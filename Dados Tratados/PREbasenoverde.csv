@@ -1,0 +1,301 @@
+Idade,Juros,Classe,Genero,ValorEmprestimo,ValorFinal,QtdParcelas,ValorParcela,MotivoEmprestimo
+18,859.52,Jovem,0,1000.0,1859.52,12,154.96,Nao informado
+18,593.36,Jovem,1,1000.0,1593.36,8,199.17,Pagar cartao de Credito
+18,593.36,Jovem,0,1000.0,1593.36,8,199.17,Nao informado
+18,1547.04,Jovem,1,1800.0,3347.04,12,278.92,Nao informado
+18,429.76,Jovem,0,500.0,929.76,12,77.48,Dinheiro Extra
+19,1031.4,Jovem,1,1200.0,2231.4,12,185.95,Outros
+19,1719.04,Jovem,0,2000.0,3719.04,12,309.92,Outros
+19,296.72,Jovem,1,500.0,796.72,8,99.59,Outros
+19,245.55,Jovem,0,600.0,845.55,5,169.11,Outros
+19,2148.68,Jovem,1,2500.0,4648.68,12,387.39,Pagar cartao de Credito
+19,516.04,Jovem,0,1100.0,1616.04,6,269.34,Nao informado
+19,147.01,Jovem,1,500.0,647.01,3,215.67,Contas
+19,258.02,Jovem,1,550.0,808.02,6,134.67,Nao informado
+19,687.64,Jovem,0,800.0,1487.64,12,123.97,Outros
+19,945.4,Jovem,1,1100.0,2045.4,12,170.45,Nao informado
+20,245.6,Adulto,1,700.0,945.6,4,236.4,Pagar cartao de Credito
+20,3437.96,Adulto,0,4000.0,7437.96,12,619.83,Dinheiro Extra
+20,205.82,Adulto,1,700.0,905.82,3,301.94,Tirar Habilitacao
+20,530.48,Adulto,1,1000.0,1530.48,7,218.64,Nao informado
+21,429.76,Adulto,1,500.0,929.76,12,77.48,Pagar cartao de Credito
+21,296.72,Adulto,1,500.0,796.72,8,99.59,Outros
+21,1418.16,Adulto,1,1650.0,3068.16,12,255.68,Outros
+21,516.04,Adulto,1,1100.0,1616.04,6,269.34,Nao informado
+21,516.04,Adulto,1,1100.0,1616.04,6,269.34,Nao informado
+21,147.01,Adulto,1,500.0,647.01,3,215.67,Outros
+22,2277.68,Adulto,1,2650.0,4927.68,12,410.64,Dinheiro Extra
+22,147.01,Adulto,1,500.0,647.01,3,215.67,Pagar cartao de Credito
+22,988.4,Adulto,1,1150.0,2138.4,12,178.2,Outros
+22,469.1,Adulto,1,1000.0,1469.1,6,244.85,Nao informado
+22,147.01,Adulto,1,500.0,647.01,3,215.67,Dinheiro Extra
+23,3094.2,Adulto,1,3600.0,6694.2,12,557.85,Pagar cartao de Credito
+23,532.0,Adulto,1,1300.0,1832.0,5,366.4,Outros
+23,515.64,Adulto,1,600.0,1115.64,12,92.97,Nao informado
+23,583.57,Adulto,1,1100.0,1683.57,7,240.51,Nao informado
+23,1847.92,Adulto,1,2150.0,3997.92,12,333.16,Outros
+23,350.84,Adulto,1,1000.0,1350.84,4,337.71,Outros
+23,1719.04,Adulto,1,2000.0,3719.04,12,309.92,Dinheiro Extra
+23,204.6,Adulto,1,500.0,704.6,5,140.92,Contas
+23,1332.16,Adulto,1,1550.0,2882.16,12,240.18,Nao informado
+23,613.85,Adulto,1,1500.0,2113.85,5,422.77,Outros
+23,859.52,Adulto,1,1000.0,1859.52,12,154.96,Nao informado
+23,2121.99,Adulto,1,4000.0,6121.99,7,874.57,Pagar cartao de Credito
+24,1719.04,Adulto,1,2000.0,3719.04,12,309.92,Outros
+24,723.6,Adulto,1,1000.0,1723.6,10,172.36,Outros
+24,859.52,Adulto,1,1000.0,1859.52,12,154.96,Nao informado
+24,1418.16,Adulto,1,1650.0,3068.16,12,255.68,Dinheiro Extra
+24,516.04,Adulto,0,1100.0,1616.04,6,269.34,Nao informado
+24,2320.68,Adulto,0,2700.0,5020.68,12,418.39,Nao informado
+24,1085.4,Adulto,0,1500.0,2585.4,10,258.54,Dinheiro Extra
+24,1289.28,Adulto,0,1500.0,2789.28,12,232.44,Pagar cartao de Credito
+24,147.01,Adulto,0,500.0,647.01,3,215.67,Dinheiro Extra
+24,1031.4,Adulto,0,1200.0,2231.4,12,185.95,Nao informado
+24,1719.04,Adulto,0,2000.0,3719.04,12,309.92,Pagar cartao de Credito
+24,2492.56,Adulto,0,2900.0,5392.56,12,449.38,Outros
+24,859.52,Adulto,0,1000.0,1859.52,12,154.96,Outros
+24,434.1,Adulto,0,600.0,1034.1,10,103.41,Pagar cartao de Credito
+24,2578.44,Adulto,0,3000.0,5578.44,12,464.87,Nao informado
+24,1633.04,Adulto,0,1900.0,3533.04,12,294.42,Dinheiro Extra
+25,859.52,Adulto,0,1000.0,1859.52,12,154.96,Pagar cartao de Credito
+25,2578.44,Adulto,0,3000.0,5578.44,12,464.87,Outros
+25,1125.84,Adulto,0,2400.0,3525.84,6,587.64,Pagar cartao de Credito
+25,1719.04,Adulto,0,2000.0,3719.04,12,309.92,Dinheiro Extra
+25,469.1,Adulto,0,1000.0,1469.1,6,244.85,Contas
+25,988.4,Adulto,0,1150.0,2138.4,12,178.2,Nao informado
+25,3437.96,Adulto,0,4000.0,7437.96,12,619.83,Nao informado
+25,773.52,Adulto,0,900.0,1673.52,12,139.46,Nao informado
+25,469.1,Adulto,0,1000.0,1469.1,6,244.85,Outros
+25,469.1,Adulto,0,1000.0,1469.1,6,244.85,Nao informado
+25,515.64,Adulto,0,600.0,1115.64,12,92.97,Outros
+26,868.3,Adulto,0,1200.0,2068.3,10,206.83,Outros
+26,350.84,Adulto,0,1000.0,1350.84,4,337.71,Cheque Especial
+26,2105.8,Adulto,0,2450.0,4555.8,12,379.65,Dinheiro Extra
+26,382.25,Adulto,0,1300.0,1682.25,3,560.75,Pagamento de dívidas
+26,409.2,Adulto,0,1000.0,1409.2,5,281.84,Pagar cartao de Credito
+26,988.4,Adulto,0,1150.0,2138.4,12,178.2,Nao informado
+26,515.64,Adulto,0,600.0,1115.64,12,92.97,Outros
+26,2965.2,Adulto,0,3450.0,6415.2,12,534.6,Dinheiro Extra
+26,192.96,Adulto,0,550.0,742.96,4,185.74,Nao informado
+26,1719.04,Adulto,1,2000.0,3719.04,12,309.92,Outros
+27,789.27,Adulto,1,1200.0,1989.27,9,221.03,Dinheiro Extra
+27,2105.8,Adulto,1,2450.0,4555.8,12,379.65,Pagar cartao de Credito
+27,147.01,Adulto,1,500.0,647.01,3,215.67,Outros
+27,1976.8,Adulto,1,2300.0,4276.8,12,356.4,Dinheiro Extra
+27,657.8,Adulto,1,1000.0,1657.8,9,184.2,Nao informado
+27,859.52,Adulto,1,1000.0,1859.52,12,154.96,Viagem
+28,3437.96,Adulto,1,4000.0,7437.96,12,619.83,Dinheiro Extra
+28,2836.32,Adulto,1,3300.0,6136.32,12,511.36,Dinheiro Extra
+28,515.64,Adulto,1,600.0,1115.64,12,92.97,Nao informado
+28,2148.68,Adulto,1,2500.0,4648.68,12,387.39,Outros
+28,859.52,Adulto,1,1000.0,1859.52,12,154.96,Nao informado
+28,735.08,Adulto,1,2500.0,3235.08,3,1078.36,Cheque Especial
+29,593.36,Adulto,1,1000.0,1593.36,8,199.17,Dinheiro Extra
+29,790.8,Adulto,1,1000.0,1790.8,11,162.8,Compras
+29,2449.56,Adulto,1,2850.0,5299.56,12,441.63,Outros
+29,147.01,Adulto,1,500.0,647.01,3,215.67,Outros
+29,773.52,Adulto,1,900.0,1673.52,12,139.46,Nao informado
+29,2578.44,Adulto,1,3000.0,5578.44,12,464.87,Pagar cartao de Credito
+29,988.4,Adulto,1,1150.0,2138.4,12,178.2,Nao informado
+30,1289.28,Adulto,1,1500.0,2789.28,12,232.44,Dinheiro Extra
+30,2707.44,Adulto,1,3150.0,5857.44,12,488.12,Pagamento de dívidas
+30,2121.99,Adulto,1,4000.0,6121.99,7,874.57,Simulacao
+30,1375.16,Adulto,1,1600.0,2975.16,12,247.93,Nao informado
+30,234.58,Adulto,1,500.0,734.58,6,122.43,Nao informado
+30,328.4,Adulto,1,700.0,1028.4,6,171.4,Nao informado
+30,859.52,Adulto,0,1000.0,1859.52,12,154.96,Nao informado
+30,2320.68,Adulto,0,2700.0,5020.68,12,418.39,Dinheiro Extra
+30,1547.04,Adulto,0,1800.0,3347.04,12,278.92,Pagamento de dívidas
+31,3094.2,Adulto,0,3600.0,6694.2,12,557.85,Outros
+31,1719.04,Adulto,0,2000.0,3719.04,12,309.92,Pagar cartao de Credito
+31,3437.96,Adulto,0,4000.0,7437.96,12,619.83,Outros
+31,1719.04,Adulto,0,2000.0,3719.04,12,309.92,Outros
+31,1085.4,Adulto,0,1500.0,2585.4,10,258.54,Outros
+31,1246.28,Adulto,0,1450.0,2696.28,12,224.69,Nao informado
+31,3437.96,Adulto,0,4000.0,7437.96,12,619.83,Outros
+31,859.52,Adulto,0,1000.0,1859.52,12,154.96,Outros
+31,1933.8,Adulto,0,2250.0,4183.8,12,348.65,Nao informado
+32,2578.44,Adulto,0,3000.0,5578.44,12,464.87,Pagar cartao de Credito
+32,3437.96,Adulto,0,4000.0,7437.96,12,619.83,Outros
+32,1332.16,Adulto,0,1550.0,2882.16,12,240.18,Nao informado
+32,530.48,Adulto,0,1000.0,1530.48,7,218.64,Pagar cartao de Credito
+32,2578.44,Adulto,0,3000.0,5578.44,12,464.87,Outros
+32,1203.28,Adulto,0,1400.0,2603.28,12,216.94,Nao informado
+32,192.96,Adulto,0,550.0,742.96,4,185.74,Nao informado
+32,1804.92,Adulto,0,2100.0,3904.92,12,325.41,Dinheiro Extra
+33,395.4,Adulto,0,500.0,895.4,11,81.4,Outros
+33,703.68,Adulto,0,1500.0,2203.68,6,367.28,Nao informado
+33,562.92,Adulto,0,1200.0,1762.92,6,293.82,Nao informado
+33,361.79,Adulto,0,550.0,911.79,9,101.31,Outros
+33,945.4,Adulto,0,1100.0,2045.4,12,170.45,Pagar cartao de Credito
+33,859.52,Adulto,0,1000.0,1859.52,12,154.96,Nao informado
+33,1289.28,Adulto,0,1500.0,2789.28,12,232.44,Nao informado
+33,2965.2,Adulto,0,3450.0,6415.2,12,534.6,Nao informado
+33,294.02,Adulto,0,1000.0,1294.02,3,431.34,Dinheiro Extra
+33,578.9,Adulto,0,800.0,1378.9,10,137.89,Pagar cartao de Credito
+33,859.52,Adulto,0,1000.0,1859.52,12,154.96,Nao informado
+33,2578.44,Adulto,0,3000.0,5578.44,12,464.87,Outros
+33,1719.04,Adulto,0,2000.0,3719.04,12,309.92,Nao informado
+33,2234.68,Adulto,0,2600.0,4834.68,12,402.89,Nao informado
+33,756.38,Adulto,0,1150.0,1906.38,9,211.82,Nao informado
+34,2076.88,Adulto,0,3500.0,5576.88,8,697.11,Outros
+34,1933.8,Adulto,0,2250.0,4183.8,12,348.65,Outros
+34,1719.04,Adulto,0,2000.0,3719.04,12,309.92,Nao informado
+34,530.48,Adulto,0,1000.0,1530.48,7,218.64,Nao informado
+34,1547.04,Adulto,0,1800.0,3347.04,12,278.92,Outros
+34,859.52,Adulto,0,1000.0,1859.52,12,154.96,Outros
+34,3437.96,Adulto,0,4000.0,7437.96,12,619.83,Pagar cartao de Credito
+35,859.52,Adulto,1,1000.0,1859.52,12,154.96,Nao informado
+35,192.96,Adulto,1,550.0,742.96,4,185.74,Nao informado
+35,1160.28,Adulto,1,1350.0,2510.28,12,209.19,Pagar cartao de Credito
+35,859.52,Adulto,1,1000.0,1859.52,12,154.96,Outros
+35,1973.31,Adulto,1,3000.0,4973.31,9,552.59,Nao informado
+35,1315.51,Adulto,1,2000.0,3315.51,9,368.39,Nao informado
+35,258.02,Adulto,1,550.0,808.02,6,134.67,Nao informado
+36,2894.3,Adulto,1,4000.0,6894.3,10,689.43,Compras
+36,1461.16,Adulto,1,1700.0,3161.16,12,263.43,Nao informado
+37,469.1,Adulto,1,1000.0,1469.1,6,244.85,Nao informado
+37,3437.96,Adulto,1,4000.0,7437.96,12,619.83,Cheque Especial
+37,1315.51,Adulto,1,2000.0,3315.51,9,368.39,Nao informado
+37,868.3,Adulto,1,1200.0,2068.3,10,206.83,Dinheiro Extra
+37,859.52,Adulto,1,1000.0,1859.52,12,154.96,Outros
+37,1160.28,Adulto,1,1350.0,2510.28,12,209.19,Nao informado
+38,2836.32,Adulto,1,3300.0,6136.32,12,511.36,Nao informado
+38,2578.44,Adulto,1,3000.0,5578.44,12,464.87,Outros
+38,1375.16,Adulto,1,1600.0,2975.16,12,247.93,Nao informado
+38,859.52,Adulto,1,1000.0,1859.52,12,154.96,Cheque Especial
+38,429.76,Adulto,1,500.0,929.76,12,77.48,Dinheiro Extra
+38,2621.44,Adulto,1,3050.0,5671.44,12,472.62,Contas
+38,1633.04,Adulto,1,1900.0,3533.04,12,294.42,Pagamento de dívidas
+38,2965.2,Adulto,1,3450.0,6415.2,12,534.6,Outros
+38,1289.28,Adulto,1,1500.0,2789.28,12,232.44,Dinheiro Extra
+39,469.1,Adulto,1,1000.0,1469.1,6,244.85,Nao informado
+39,703.68,Adulto,1,1500.0,2203.68,6,367.28,Contas
+39,1719.04,Adulto,1,2000.0,3719.04,12,309.92,Outros
+39,1591.51,Adulto,1,3000.0,4591.51,7,655.93,Outros
+39,516.04,Adulto,1,1100.0,1616.04,6,269.34,Nao informado
+39,1461.16,Adulto,1,1700.0,3161.16,12,263.43,Nao informado
+39,1847.92,Adulto,1,2150.0,3997.92,12,333.16,Nao informado
+39,593.36,Adulto,1,1000.0,1593.36,8,199.17,Outros
+39,945.4,Adulto,1,1100.0,2045.4,12,170.45,Nao informado
+39,2965.2,Adulto,1,3450.0,6415.2,12,534.6,Pagar cartao de Credito
+39,988.4,Adulto,1,1150.0,2138.4,12,178.2,Nao informado
+39,2894.3,Adulto,1,4000.0,6894.3,10,689.43,Dinheiro Extra
+39,205.82,Adulto,1,700.0,905.82,3,301.94,Nao informado
+39,469.1,Adulto,1,1000.0,1469.1,6,244.85,Nao informado
+39,1061.03,Adulto,1,2000.0,3061.03,7,437.29,Nao informado
+40,469.1,Adulto,1,1000.0,1469.1,6,244.85,Nao informado
+40,1976.8,Adulto,1,2300.0,4276.8,12,356.4,Nao informado
+40,3008.2,Adulto,1,3500.0,6508.2,12,542.35,Outros
+40,1031.4,Adulto,1,1200.0,2231.4,12,185.95,Cheque Especial
+40,2578.44,Adulto,1,3000.0,5578.44,12,464.87,Outros
+40,1289.28,Adulto,1,1500.0,2789.28,12,232.44,Nao informado
+40,1719.04,Adulto,1,2000.0,3719.04,12,309.92,Outros
+40,1461.16,Adulto,1,1700.0,3161.16,12,263.43,Nao informado
+40,3437.96,Adulto,1,4000.0,7437.96,12,619.83,Investimento em negócios
+40,350.84,Adulto,1,1000.0,1350.84,4,337.71,Dinheiro Extra
+41,469.1,Adulto,1,1000.0,1469.1,6,244.85,Nao informado
+41,988.4,Adulto,1,1150.0,2138.4,12,178.2,Nao informado
+41,578.9,Adulto,1,800.0,1378.9,10,137.89,Dinheiro Extra
+41,859.52,Adulto,1,1000.0,1859.52,12,154.96,Nao informado
+41,2170.7,Adulto,1,3000.0,5170.7,10,517.07,Dinheiro Extra
+41,1547.04,Adulto,1,1800.0,3347.04,12,278.92,Nao informado
+41,1590.04,Adulto,1,1850.0,3440.04,12,286.67,Nao informado
+41,859.52,Adulto,1,1000.0,1859.52,12,154.96,Pagar cartao de Credito
+41,773.52,Adulto,1,900.0,1673.52,12,139.46,Nao informado
+42,3437.96,Adulto,1,4000.0,7437.96,12,619.83,Outros
+42,859.52,Adulto,1,1000.0,1859.52,12,154.96,Outros
+42,469.1,Adulto,1,1000.0,1469.1,6,244.85,Dinheiro Extra
+42,1719.04,Adulto,1,2000.0,3719.04,12,309.92,Nao informado
+42,1230.1,Adulto,1,1700.0,2930.1,10,293.01,Outros
+42,409.2,Adulto,1,1000.0,1409.2,5,281.84,Nao informado
+42,859.52,Adulto,1,1000.0,1859.52,12,154.96,Outros
+42,1504.16,Adulto,1,1750.0,3254.16,12,271.18,Nao informado
+42,1461.16,Adulto,1,1700.0,3161.16,12,263.43,Nao informado
+42,1375.16,Adulto,1,1600.0,2975.16,12,247.93,Nao informado
+42,469.1,Adulto,1,1000.0,1469.1,6,244.85,Nao informado
+42,2191.68,Adulto,1,2550.0,4741.68,12,395.14,Outros
+42,1719.04,Adulto,1,2000.0,3719.04,12,309.92,Outros
+42,2965.2,Adulto,1,3450.0,6415.2,12,534.6,Nao informado
+43,1447.2,Adulto,1,2000.0,3447.2,10,344.72,Outros
+43,1719.04,Adulto,1,2000.0,3719.04,12,309.92,Nao informado
+43,3437.96,Adulto,1,4000.0,7437.96,12,619.83,Nao informado
+43,3437.96,Adulto,1,4000.0,7437.96,12,619.83,Nao informado
+43,859.52,Adulto,1,1000.0,1859.52,12,154.96,Nao informado
+43,204.6,Adulto,1,500.0,704.6,5,140.92,Outros
+44,859.52,Adulto,1,1000.0,1859.52,12,154.96,Nao informado
+44,469.1,Adulto,1,1000.0,1469.1,6,244.85,Nao informado
+44,818.45,Adulto,1,2000.0,2818.45,5,563.69,Dinheiro Extra
+44,530.48,Adulto,1,1000.0,1530.48,7,218.64,Dinheiro Extra
+44,294.02,Adulto,1,1000.0,1294.02,3,431.34,Outros
+44,469.1,Adulto,1,1000.0,1469.1,6,244.85,Nao informado
+44,1117.4,Adulto,1,1300.0,2417.4,12,201.45,Nao informado
+45,3437.96,Adulto,1,4000.0,7437.96,12,619.83,Nao informado
+45,328.9,Adulto,1,500.0,828.9,9,92.1,Outros
+45,1289.28,Adulto,1,1500.0,2789.28,12,232.44,Outros
+45,1289.28,Adulto,1,1500.0,2789.28,12,232.44,Nao informado
+46,1418.16,Adulto,0,1650.0,3068.16,12,255.68,Nao informado
+46,3437.96,Adulto,0,4000.0,7437.96,12,619.83,Nao informado
+46,327.4,Adulto,0,800.0,1127.4,5,225.48,Dinheiro Extra
+46,1504.16,Adulto,0,1750.0,3254.16,12,271.18,Nao informado
+46,1203.28,Adulto,0,1400.0,2603.28,12,216.94,Pagar cartao de Credito
+46,375.28,Adulto,0,800.0,1175.28,6,195.88,Nao informado
+46,1289.28,Adulto,0,1500.0,2789.28,12,232.44,Nao informado
+46,859.52,Adulto,0,1000.0,1859.52,12,154.96,Nao informado
+46,469.1,Adulto,0,1000.0,1469.1,6,244.85,Nao informado
+47,859.52,Adulto,0,1000.0,1859.52,12,154.96,Nao informado
+47,703.68,Adulto,0,1500.0,2203.68,6,367.28,Nao informado
+47,1289.28,Adulto,0,1500.0,2789.28,12,232.44,Nao informado
+47,281.46,Adulto,0,600.0,881.46,6,146.91,Pagar cartao de Credito
+48,2578.44,Adulto,0,3000.0,5578.44,12,464.87,Nao informado
+48,469.1,Adulto,0,1000.0,1469.1,6,244.85,Nao informado
+48,1808.9,Adulto,0,2500.0,4308.9,10,430.89,Outros
+48,3094.2,Adulto,0,3600.0,6694.2,12,557.85,Pagar cartao de Credito
+48,469.1,Adulto,0,1000.0,1469.1,6,244.85,Nao informado
+48,2170.7,Adulto,0,3000.0,5170.7,10,517.07,Nao informado
+48,1289.28,Adulto,0,1500.0,2789.28,12,232.44,Nao informado
+48,2148.68,Adulto,0,2500.0,4648.68,12,387.39,Nao informado
+49,2372.51,Adulto,0,3000.0,5372.51,11,488.41,Nao informado
+49,1538.8,Adulto,0,2600.0,4138.8,8,517.35,Investimento em negócios
+49,1246.28,Adulto,0,1450.0,2696.28,12,224.69,Dinheiro Extra
+49,1203.28,Adulto,0,1400.0,2603.28,12,216.94,Nao informado
+49,859.52,Adulto,0,1000.0,1859.52,12,154.96,Outros
+49,2631.02,Adulto,0,4000.0,6631.02,9,736.78,Nao informado
+50,2793.32,Adulto,0,3250.0,6043.32,12,503.61,Nao informado
+50,1719.04,Adulto,0,2000.0,3719.04,12,309.92,Mudanca
+50,938.2,Adulto,0,2000.0,2938.2,6,489.7,Nao informado
+50,868.3,Adulto,0,1200.0,2068.3,10,206.83,Cheque Especial
+50,1847.92,Adulto,0,2150.0,3997.92,12,333.16,Nao informado
+50,2148.68,Adulto,0,2500.0,4648.68,12,387.39,Outros
+50,1719.04,Adulto,0,2000.0,3719.04,12,309.92,Outros
+50,1719.04,Adulto,0,2000.0,3719.04,12,309.92,Nao informado
+51,1719.04,Adulto,0,2000.0,3719.04,12,309.92,Outros
+51,3437.96,Adulto,0,4000.0,7437.96,12,619.83,Nao informado
+51,1847.92,Adulto,0,2150.0,3997.92,12,333.16,Pagar cartao de Credito
+51,1719.04,Adulto,0,2000.0,3719.04,12,309.92,Nao informado
+51,1289.28,Adulto,0,1500.0,2789.28,12,232.44,Pagar cartao de Credito
+52,2578.44,Adulto,0,3000.0,5578.44,12,464.87,Reforma da casa
+52,1719.04,Adulto,0,2000.0,3719.04,12,309.92,Nao informado
+52,1447.2,Adulto,0,2000.0,3447.2,10,344.72,Contas
+53,3437.96,Adulto,0,4000.0,7437.96,12,619.83,Dinheiro Extra
+53,1289.28,Adulto,0,1500.0,2789.28,12,232.44,Contas
+53,3437.96,Adulto,0,4000.0,7437.96,12,619.83,Outros
+54,258.02,Adulto,0,550.0,808.02,6,134.67,Nao informado
+54,657.8,Adulto,0,1000.0,1657.8,9,184.2,Pagar cartao de Credito
+54,1403.44,Adulto,0,4000.0,5403.44,4,1350.86,Outros
+55,1085.4,Adulto,0,1500.0,2585.4,10,258.54,Reforma da casa
+55,3437.96,Adulto,0,4000.0,7437.96,12,619.83,Outros
+55,945.4,Adulto,0,1100.0,2045.4,12,170.45,Nao informado
+55,409.2,Adulto,0,1000.0,1409.2,5,281.84,Pagar cartao de Credito
+56,1719.04,Adulto,0,2000.0,3719.04,12,309.92,Nao informado
+56,687.64,Adulto,0,800.0,1487.64,12,123.97,Pagar cartao de Credito
+57,1890.92,Adulto,0,2200.0,4090.92,12,340.91,Nao informado
+59,988.4,Adulto,0,1150.0,2138.4,12,178.2,Nao informado
+59,1719.04,Adulto,0,2000.0,3719.04,12,309.92,Dinheiro Extra
+59,1085.4,Adulto,0,1500.0,2585.4,10,258.54,Dinheiro Extra
+60,859.52,Idoso,0,1000.0,1859.52,12,154.96,Nao informado
+60,632.64,Idoso,0,800.0,1432.64,11,130.24,Pagamento de dívidas
+60,1719.04,Idoso,1,2000.0,3719.04,12,309.92,Nao informado
+60,1719.04,Idoso,1,2000.0,3719.04,12,309.92,Nao informado
+61,1504.16,Idoso,1,1750.0,3254.16,12,271.18,Cheque Especial
+62,1289.28,Idoso,1,1500.0,2789.28,12,232.44,Outros
