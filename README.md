@@ -6,3 +6,5 @@ O projeto ainda não está completo, existem correções a serem feitas desde a 
 Para maiores detalhes peço que verifiquem a documentação, boa parte já está corrigida e pronta.
 
 Dúvidas a disposição!!!
+
+*Importante salientar que todos os dados da startup estão randomizados*
