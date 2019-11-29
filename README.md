@@ -1,9 +1,9 @@
 # OPE
 Oficina de projeto empresarial (TCC da faculdade)
 
-O projeto ainda não está completo, existem correções a serem feitas desde a documentação (Comentada pelos professores) até a parte de modelagem e código, porém aos poucos vou lançando as principais tarefas desenvolvidas!
+O presente projeto está direcionado para uma startup de crédito chamada Noverde, na qual realiza empréstimos 100% online para pessoas físicas de dez estados do Brasil, sendo eles: SP, SC, RS, PR, MT, MS, MG, GO, ES e DF. Visando um maior volume de clientes e por consequência maior rentabilidade, a startup deseja expandir o negócio para outros estados. Uma tomada de decisão feita "às cegas" pode acabar trazendo prejuízo, esse conteúdo irá auxiliar na coleta de indicadores e no desenvolvimento de um SAD (sistema de suporte à decisão).
 
-Para maiores detalhes peço que verifiquem a documentação, boa parte já está corrigida e pronta.
+Para mais detalhes peço que verifiquem a documentação.
 
 Dúvidas a disposição!!!
 
