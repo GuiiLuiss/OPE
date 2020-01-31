@@ -7,6 +7,8 @@ Para mais detalhes peço que verifiquem a documentação.
 
 Dúvidas a disposição!!!
 
+Link do storytelling: https://app.powerbi.com/view?r=eyJrIjoiOWJiNTNhYWMtMjYyMy00YzVlLWIxOWMtZmM2ZGE1N2JiYzRhIiwidCI6ImMwMjA1ZWVjLWY5NzAtNGM5My1hYjk3LWZlMDhhMzEzYmRhYiJ9
+
 LinkedIn dos integrantes:
   - linkedin.com/in/neri-silvestre-b7a467162
   - linkedin.com/in/wesley-v-ferreira
